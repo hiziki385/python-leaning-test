@@ -1,1 +1,1 @@
-# python-leaning-test
+Pythonの勉強頑張ります
